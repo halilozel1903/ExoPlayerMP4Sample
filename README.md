@@ -1,4 +1,4 @@
-## How to use ExoPlayer ▶️ with Kotlin in Android ❓
+## How to use ExoPlayer 💻  with Kotlin in Android ⁉️
 
 ![ExoPlayer](https://cdn-images-1.medium.com/max/1600/1*dPnvB_FE2OH06BFflBAM4Q.png)
 
